@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @usmonbarzu
 - 👀 I’m interested in webprogaming
-- in want to be a professionaln fullstack webdev
+- I want to be a professionaln fullstack webdev
 - 
 
 <!---
